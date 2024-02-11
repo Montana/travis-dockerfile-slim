@@ -1,2 +1,5 @@
 # travis-dockerfile-slim
-Dockerfile with Node Slim 
+
+`Dockerfile` running a multi-service container setup.
+>February 10th, 2024 by Michael Mendy. 
+
